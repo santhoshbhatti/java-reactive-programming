@@ -1,0 +1,543 @@
+[ INFO] (main) | onSubscribe([Fuseable] FluxGenerate.GenerateSubscription)
+[ INFO] (main) | request(unbounded)
+[ INFO] (main) | onNext(Chambers Harrap)
+Recieved: Chambers Harrap
+[ INFO] (main) | onNext(Bella Books)
+Recieved: Bella Books
+[ INFO] (main) | onNext(Anvil Press Poetry)
+Recieved: Anvil Press Poetry
+[ INFO] (main) | onNext(Seagull Books)
+Recieved: Seagull Books
+[ INFO] (main) | onNext(Chronicle Books)
+Recieved: Chronicle Books
+[ INFO] (main) | onNext(BBC Books)
+Recieved: BBC Books
+[ INFO] (main) | onNext(Caister Academic Press)
+Recieved: Caister Academic Press
+[ INFO] (main) | onNext(Pan Books)
+Recieved: Pan Books
+[ INFO] (main) | onNext(Fearless Books)
+Recieved: Fearless Books
+[ INFO] (main) | onNext(E. P. Dutton)
+Recieved: E. P. Dutton
+[ INFO] (main) | onNext(Open Court Publishing Company)
+Recieved: Open Court Publishing Company
+[ INFO] (main) | onNext(Flame Tree Publishing)
+Recieved: Flame Tree Publishing
+[ INFO] (main) | onNext(Charles Scribner's Sons)
+Recieved: Charles Scribner's Sons
+[ INFO] (main) | onNext(Godwit Press)
+Recieved: Godwit Press
+[ INFO] (main) | onNext(Leafwood Publishers)
+Recieved: Leafwood Publishers
+[ INFO] (main) | onNext(HarperCollins)
+Recieved: HarperCollins
+[ INFO] (main) | onNext(Ziff Davis Media)
+Recieved: Ziff Davis Media
+[ INFO] (main) | onNext(Paulist Press)
+Recieved: Paulist Press
+[ INFO] (main) | onNext(Harcourt Assessment)
+Recieved: Harcourt Assessment
+[ INFO] (main) | onNext(Voyager Books)
+Recieved: Voyager Books
+[ INFO] (main) | onNext(Reed Publishing)
+Recieved: Reed Publishing
+[ INFO] (main) | onNext(Flame Tree Publishing)
+Recieved: Flame Tree Publishing
+[ INFO] (main) | onNext(Horizon Scientific Press)
+Recieved: Horizon Scientific Press
+[ INFO] (main) | onNext(UCL Press)
+Recieved: UCL Press
+[ INFO] (main) | onNext(Pathfinder Press)
+Recieved: Pathfinder Press
+[ INFO] (main) | onNext(Blackstaff Press)
+Recieved: Blackstaff Press
+[ INFO] (main) | onNext(Harper & Brothers)
+Recieved: Harper & Brothers
+[ INFO] (main) | onNext(Hodder Headline)
+Recieved: Hodder Headline
+[ INFO] (main) | onNext(Mark Batty Publisher)
+Recieved: Mark Batty Publisher
+[ INFO] (main) | onNext(Shoemaker & Hoard Publishers)
+Recieved: Shoemaker & Hoard Publishers
+[ INFO] (main) | onNext(Anova Books)
+Recieved: Anova Books
+[ INFO] (main) | onNext(Atheneum Books)
+Recieved: Atheneum Books
+[ INFO] (main) | onNext(Blackstaff Press)
+Recieved: Blackstaff Press
+[ INFO] (main) | onNext(Charles Scribner's Sons)
+Recieved: Charles Scribner's Sons
+[ INFO] (main) | onNext(Holland Park Press)
+Recieved: Holland Park Press
+[ INFO] (main) | onNext(Faber and Faber)
+Recieved: Faber and Faber
+[ INFO] (main) | onNext(University of Akron Press)
+Recieved: University of Akron Press
+[ INFO] (main) | onNext(Ladybird Books)
+Recieved: Ladybird Books
+[ INFO] (main) | onNext(SAGE Publications)
+Recieved: SAGE Publications
+[ INFO] (main) | onNext(Berg Publishers)
+Recieved: Berg Publishers
+[ INFO] (main) | onNext(Peace Hill Press)
+Recieved: Peace Hill Press
+[ INFO] (main) | onNext(Bella Books)
+Recieved: Bella Books
+[ INFO] (main) | onNext(Farrar, Straus & Giroux)
+Recieved: Farrar, Straus & Giroux
+[ INFO] (main) | onNext(Shambhala Publications)
+Recieved: Shambhala Publications
+[ INFO] (main) | onNext(David & Charles)
+Recieved: David & Charles
+[ INFO] (main) | onNext(Oberon Books)
+Recieved: Oberon Books
+[ INFO] (main) | onNext(Cengage Learning)
+Recieved: Cengage Learning
+[ INFO] (main) | onNext(Pecan Grove Press)
+Recieved: Pecan Grove Press
+[ INFO] (main) | onNext(University of Chicago Press)
+Recieved: University of Chicago Press
+[ INFO] (main) | onNext(Elsevier)
+Recieved: Elsevier
+[ INFO] (main) | onNext(Papadakis Publisher)
+Recieved: Papadakis Publisher
+[ INFO] (main) | onNext(Del Rey Books)
+Recieved: Del Rey Books
+[ INFO] (main) | onNext(Del Rey Books)
+Recieved: Del Rey Books
+[ INFO] (main) | onNext(Lion Hudson)
+Recieved: Lion Hudson
+[ INFO] (main) | onNext(HarperTrophy)
+Recieved: HarperTrophy
+[ INFO] (main) | onNext(Boydell & Brewer)
+Recieved: Boydell & Brewer
+[ INFO] (main) | onNext(Blackwell Publishing)
+Recieved: Blackwell Publishing
+[ INFO] (main) | onNext(Farrar, Straus & Giroux)
+Recieved: Farrar, Straus & Giroux
+[ INFO] (main) | onNext(Velazquez Press)
+Recieved: Velazquez Press
+[ INFO] (main) | onNext(Mascot Books)
+Recieved: Mascot Books
+[ INFO] (main) | onNext(Harvard University Press)
+Recieved: Harvard University Press
+[ INFO] (main) | onNext(Academic Press)
+Recieved: Academic Press
+[ INFO] (main) | onNext(Blackie and Son Limited)
+Recieved: Blackie and Son Limited
+[ INFO] (main) | onNext(Jarrolds Publishing)
+Recieved: Jarrolds Publishing
+[ INFO] (main) | onNext(Indiana University Press)
+Recieved: Indiana University Press
+[ INFO] (main) | onNext(Kessinger Publishing)
+Recieved: Kessinger Publishing
+[ INFO] (main) | onNext(Del Rey Books)
+Recieved: Del Rey Books
+[ INFO] (main) | onNext(Churchill Livingstone)
+Recieved: Churchill Livingstone
+[ INFO] (main) | onNext(Apress)
+Recieved: Apress
+[ INFO] (main) | onNext(Fearless Books)
+Recieved: Fearless Books
+[ INFO] (main) | onNext(Atheneum Publishers)
+Recieved: Atheneum Publishers
+[ INFO] (main) | onNext(Horizon Scientific Press)
+Recieved: Horizon Scientific Press
+[ INFO] (main) | onNext(Berkley Books)
+Recieved: Berkley Books
+[ INFO] (main) | onNext(J. M. Dent)
+Recieved: J. M. Dent
+[ INFO] (main) | onNext(Atlantic Books)
+Recieved: Atlantic Books
+[ INFO] (main) | onNext(Mandrake Press)
+Recieved: Mandrake Press
+[ INFO] (main) | onNext(Anova Books)
+Recieved: Anova Books
+[ INFO] (main) | onNext(ECW Press)
+Recieved: ECW Press
+[ INFO] (main) | onNext(Earthscan)
+Recieved: Earthscan
+[ INFO] (main) | onNext(E. P. Dutton)
+Recieved: E. P. Dutton
+[ INFO] (main) | onNext(University of Nebraska Press)
+Recieved: University of Nebraska Press
+[ INFO] (main) | onNext(Caister Academic Press)
+Recieved: Caister Academic Press
+[ INFO] (main) | onNext(Lethe Press)
+Recieved: Lethe Press
+[ INFO] (main) | onNext(Etruscan Press)
+Recieved: Etruscan Press
+[ INFO] (main) | onNext(Harvard University Press)
+Recieved: Harvard University Press
+[ INFO] (main) | onNext(Lion Hudson)
+Recieved: Lion Hudson
+[ INFO] (main) | onNext(Scholastic Press)
+Recieved: Scholastic Press
+[ INFO] (main) | onNext(Paulist Press)
+Recieved: Paulist Press
+[ INFO] (main) | onNext(Heyday Books)
+Recieved: Heyday Books
+[ INFO] (main) | onNext(Barrie & Jenkins)
+Recieved: Barrie & Jenkins
+[ INFO] (main) | onNext(Pecan Grove Press)
+Recieved: Pecan Grove Press
+[ INFO] (main) | onNext(Verso Books)
+Recieved: Verso Books
+[ INFO] (main) | onNext(Emerald Group Publishing)
+Recieved: Emerald Group Publishing
+[ INFO] (main) | onNext(Chronicle Books)
+Recieved: Chronicle Books
+[ INFO] (main) | onNext(New Directions Publishing)
+Recieved: New Directions Publishing
+[ INFO] (main) | onNext(Chatto and Windus)
+Recieved: Chatto and Windus
+[ INFO] (main) | onNext(Eel Pie Publishing)
+Recieved: Eel Pie Publishing
+[ INFO] (main) | onNext(T & T Clark)
+Recieved: T & T Clark
+[ INFO] (main) | onNext(Carlton Books)
+Recieved: Carlton Books
+[ INFO] (main) | onNext(Happy House)
+Recieved: Happy House
+[ INFO] (main) | onNext(Athabasca University Press)
+Recieved: Athabasca University Press
+[ INFO] (main) | onNext(Pan Books)
+Recieved: Pan Books
+[ INFO] (main) | onNext(John Blake Publishing)
+Recieved: John Blake Publishing
+[ INFO] (main) | onNext(Eel Pie Publishing)
+Recieved: Eel Pie Publishing
+[ INFO] (main) | onNext(Pen and Sword Books)
+Recieved: Pen and Sword Books
+[ INFO] (main) | onNext(Orion Books)
+Recieved: Orion Books
+[ INFO] (main) | onNext(Fearless Books)
+Recieved: Fearless Books
+[ INFO] (main) | onNext(Shuter & Shooter Publishers)
+Recieved: Shuter & Shooter Publishers
+[ INFO] (main) | onNext(Felony & Mayhem Press)
+Recieved: Felony & Mayhem Press
+[ INFO] (main) | onNext(BBC Books)
+Recieved: BBC Books
+[ INFO] (main) | onNext(Holland Park Press)
+Recieved: Holland Park Press
+[ INFO] (main) | onNext(Blackwell Publishing)
+Recieved: Blackwell Publishing
+[ INFO] (main) | onNext(Happy House)
+Recieved: Happy House
+[ INFO] (main) | onNext(Applewood Books)
+Recieved: Applewood Books
+[ INFO] (main) | onNext(Atlas Press)
+Recieved: Atlas Press
+[ INFO] (main) | onNext(Harvest House)
+Recieved: Harvest House
+[ INFO] (main) | onNext(Target Books)
+Recieved: Target Books
+[ INFO] (main) | onNext(Liberty Fund)
+Recieved: Liberty Fund
+[ INFO] (main) | onNext(Brill Publishers)
+Recieved: Brill Publishers
+[ INFO] (main) | onNext(Taylor & Francis)
+Recieved: Taylor & Francis
+[ INFO] (main) | onNext(Newnes)
+Recieved: Newnes
+[ INFO] (main) | onNext(Bowes & Bowes)
+Recieved: Bowes & Bowes
+[ INFO] (main) | onNext(HMSO)
+Recieved: HMSO
+[ INFO] (main) | onNext(Hackett Publishing Company)
+Recieved: Hackett Publishing Company
+[ INFO] (main) | onNext(Golden Cockerel Press)
+Recieved: Golden Cockerel Press
+[ INFO] (main) | onNext(Liberty Fund)
+Recieved: Liberty Fund
+[ INFO] (main) | onNext(Library of America)
+Recieved: Library of America
+[ INFO] (main) | onNext(Daedalus Publishing)
+Recieved: Daedalus Publishing
+[ INFO] (main) | onNext(Atheneum Publishers)
+Recieved: Atheneum Publishers
+[ INFO] (main) | onNext(Harvest House)
+Recieved: Harvest House
+[ INFO] (main) | onNext(George Routledge & Sons)
+Recieved: George Routledge & Sons
+[ INFO] (main) | onNext(Karadi Tales)
+Recieved: Karadi Tales
+[ INFO] (main) | onNext(Kodansha)
+Recieved: Kodansha
+[ INFO] (main) | onNext(Eerdmans Publishing)
+Recieved: Eerdmans Publishing
+[ INFO] (main) | onNext(Ian Allan Publishing)
+Recieved: Ian Allan Publishing
+[ INFO] (main) | onNext(Kessinger Publishing)
+Recieved: Kessinger Publishing
+[ INFO] (main) | onNext(Dalkey Archive Press)
+Recieved: Dalkey Archive Press
+[ INFO] (main) | onNext(Ten Speed Press)
+Recieved: Ten Speed Press
+[ INFO] (main) | onNext(Blackstaff Press)
+Recieved: Blackstaff Press
+[ INFO] (main) | onNext(Applewood Books)
+Recieved: Applewood Books
+[ INFO] (main) | onNext(BBC Books)
+Recieved: BBC Books
+[ INFO] (main) | onNext(Mark Batty Publisher)
+Recieved: Mark Batty Publisher
+[ INFO] (main) | onNext(Naiad Press)
+Recieved: Naiad Press
+[ INFO] (main) | onNext(Tachyon Publications)
+Recieved: Tachyon Publications
+[ INFO] (main) | onNext(Golden Cockerel Press)
+Recieved: Golden Cockerel Press
+[ INFO] (main) | onNext(Mandrake of Oxford)
+Recieved: Mandrake of Oxford
+[ INFO] (main) | onNext(Manor House Publishing)
+Recieved: Manor House Publishing
+[ INFO] (main) | onNext(Scholastic Press)
+Recieved: Scholastic Press
+[ INFO] (main) | onNext(Hodder Headline)
+Recieved: Hodder Headline
+[ INFO] (main) | onNext(Shambhala Publications)
+Recieved: Shambhala Publications
+[ INFO] (main) | onNext(Schocken Books)
+Recieved: Schocken Books
+[ INFO] (main) | onNext(Velazquez Press)
+Recieved: Velazquez Press
+[ INFO] (main) | onNext(Naiad Press)
+Recieved: Naiad Press
+[ INFO] (main) | onNext(Victor Gollancz Ltd)
+Recieved: Victor Gollancz Ltd
+[ INFO] (main) | onNext(Elsevier)
+Recieved: Elsevier
+[ INFO] (main) | onNext(Firebrand Books)
+Recieved: Firebrand Books
+[ INFO] (main) | onNext(Unfinished Monument Press)
+Recieved: Unfinished Monument Press
+[ INFO] (main) | onNext(Reed Elsevier)
+Recieved: Reed Elsevier
+[ INFO] (main) | onNext(Tarpaulin Sky Press)
+Recieved: Tarpaulin Sky Press
+[ INFO] (main) | onNext(Kensington Books)
+Recieved: Kensington Books
+[ INFO] (main) | onNext(Pen and Sword Books)
+Recieved: Pen and Sword Books
+[ INFO] (main) | onNext(Hodder Headline)
+Recieved: Hodder Headline
+[ INFO] (main) | onNext(David & Charles)
+Recieved: David & Charles
+[ INFO] (main) | onNext(David & Charles)
+Recieved: David & Charles
+[ INFO] (main) | onNext(Black Library)
+Recieved: Black Library
+[ INFO] (main) | onNext(Mark Batty Publisher)
+Recieved: Mark Batty Publisher
+[ INFO] (main) | onNext(Open Court Publishing Company)
+Recieved: Open Court Publishing Company
+[ INFO] (main) | onNext(Farrar, Straus & Giroux)
+Recieved: Farrar, Straus & Giroux
+[ INFO] (main) | onNext(Bella Books)
+Recieved: Bella Books
+[ INFO] (main) | onNext(Blackwell Publishing)
+Recieved: Blackwell Publishing
+[ INFO] (main) | onNext(Canongate Books)
+Recieved: Canongate Books
+[ INFO] (main) | onNext(Hachette Book Group USA)
+Recieved: Hachette Book Group USA
+[ INFO] (main) | onNext(Chronicle Books)
+Recieved: Chronicle Books
+[ INFO] (main) | onNext(Charles Scribner's Sons)
+Recieved: Charles Scribner's Sons
+[ INFO] (main) | onNext(Da Capo Press)
+Recieved: Da Capo Press
+[ INFO] (main) | onNext(Da Capo Press)
+Recieved: Da Capo Press
+[ INFO] (main) | onNext(Virago Press)
+Recieved: Virago Press
+[ INFO] (main) | onNext(D. Reidel)
+Recieved: D. Reidel
+[ INFO] (main) | onNext(Edupedia Publications)
+Recieved: Edupedia Publications
+[ INFO] (main) | onNext(Salt Publishing)
+Recieved: Salt Publishing
+[ INFO] (main) | onNext(Naiad Press)
+Recieved: Naiad Press
+[ INFO] (main) | onNext(University of Michigan Press)
+Recieved: University of Michigan Press
+[ INFO] (main) | onNext(Hackett Publishing Company)
+Recieved: Hackett Publishing Company
+[ INFO] (main) | onNext(Brill Publishers)
+Recieved: Brill Publishers
+[ INFO] (main) | onNext(Voyager Books)
+Recieved: Voyager Books
+[ INFO] (main) | onNext(Harvill Press at Random House)
+Recieved: Harvill Press at Random House
+[ INFO] (main) | onNext(McGraw Hill Financial)
+Recieved: McGraw Hill Financial
+[ INFO] (main) | onNext(Basic Books)
+Recieved: Basic Books
+[ INFO] (main) | onNext(Golden Cockerel Press)
+Recieved: Golden Cockerel Press
+[ INFO] (main) | onNext(Parragon)
+Recieved: Parragon
+[ INFO] (main) | onNext(Cengage Learning)
+Recieved: Cengage Learning
+[ INFO] (main) | onNext(Butterworth-Heinemann)
+Recieved: Butterworth-Heinemann
+[ INFO] (main) | onNext(Hogarth Press)
+Recieved: Hogarth Press
+[ INFO] (main) | onNext(Papadakis Publisher)
+Recieved: Papadakis Publisher
+[ INFO] (main) | onNext(Penguin Books)
+Recieved: Penguin Books
+[ INFO] (main) | onNext(Cambridge University Press)
+Recieved: Cambridge University Press
+[ INFO] (main) | onNext(Chatto and Windus)
+Recieved: Chatto and Windus
+[ INFO] (main) | onNext(Tachyon Publications)
+Recieved: Tachyon Publications
+[ INFO] (main) | onNext(Sidgwick & Jackson)
+Recieved: Sidgwick & Jackson
+[ INFO] (main) | onNext(Harvest House)
+Recieved: Harvest House
+[ INFO] (main) | cancel()
+HMSO=1
+Taylor & Francis=1
+Ladybird Books=1
+Ten Speed Press=1
+Atlas Press=1
+Kodansha=1
+Hachette Book Group USA=1
+Eerdmans Publishing=1
+Lion Hudson=2
+Brill Publishers=2
+Emerald Group Publishing=1
+T & T Clark=1
+Liberty Fund=2
+George Routledge & Sons=1
+Karadi Tales=1
+Blackstaff Press=3
+Edupedia Publications=1
+Harper & Brothers=1
+Canongate Books=1
+Harvill Press at Random House=1
+Applewood Books=2
+Etruscan Press=1
+Paulist Press=2
+J. M. Dent=1
+HarperTrophy=1
+Mandrake Press=1
+Firebrand Books=1
+Peace Hill Press=1
+Harvard University Press=2
+Hogarth Press=1
+Pan Books=2
+Carlton Books=1
+Cengage Learning=2
+Dalkey Archive Press=1
+UCL Press=1
+Oberon Books=1
+Blackie and Son Limited=1
+Kensington Books=1
+E. P. Dutton=2
+Harcourt Assessment=1
+University of Michigan Press=1
+BBC Books=3
+Open Court Publishing Company=2
+Caister Academic Press=2
+Athabasca University Press=1
+Atheneum Books=1
+Daedalus Publishing=1
+Berkley Books=1
+Flame Tree Publishing=2
+Velazquez Press=2
+Charles Scribner's Sons=3
+Hackett Publishing Company=2
+Anova Books=2
+Lethe Press=1
+D. Reidel=1
+Godwit Press=1
+Churchill Livingstone=1
+Mascot Books=1
+Barrie & Jenkins=1
+Anvil Press Poetry=1
+Shambhala Publications=2
+ECW Press=1
+Schocken Books=1
+Chronicle Books=3
+Scholastic Press=2
+Indiana University Press=1
+Faber and Faber=1
+Voyager Books=2
+Harvest House=3
+University of Chicago Press=1
+Mandrake of Oxford=1
+SAGE Publications=1
+Farrar, Straus & Giroux=3
+Horizon Scientific Press=2
+Atlantic Books=1
+Blackwell Publishing=3
+Parragon=1
+Sidgwick & Jackson=1
+Pathfinder Press=1
+Ziff Davis Media=1
+Earthscan=1
+Bowes & Bowes=1
+McGraw Hill Financial=1
+Happy House=2
+Target Books=1
+Felony & Mayhem Press=1
+Hodder Headline=3
+Orion Books=1
+Cambridge University Press=1
+University of Akron Press=1
+Pecan Grove Press=2
+University of Nebraska Press=1
+Butterworth-Heinemann=1
+Basic Books=1
+Mark Batty Publisher=3
+Atheneum Publishers=2
+Unfinished Monument Press=1
+Holland Park Press=2
+Elsevier=2
+Penguin Books=1
+Academic Press=1
+Heyday Books=1
+Ian Allan Publishing=1
+Shoemaker & Hoard Publishers=1
+Salt Publishing=1
+David & Charles=3
+Library of America=1
+Golden Cockerel Press=3
+Chatto and Windus=2
+Victor Gollancz Ltd=1
+Tarpaulin Sky Press=1
+Da Capo Press=2
+Manor House Publishing=1
+Naiad Press=3
+Seagull Books=1
+Pen and Sword Books=2
+Berg Publishers=1
+HarperCollins=1
+Del Rey Books=3
+Apress=1
+Kessinger Publishing=2
+Virago Press=1
+Fearless Books=3
+Papadakis Publisher=2
+New Directions Publishing=1
+Black Library=1
+Bella Books=3
+Chambers Harrap=1
+Reed Publishing=1
+Jarrolds Publishing=1
+Shuter & Shooter Publishers=1
+Boydell & Brewer=1
+Verso Books=1
+Reed Elsevier=1
+Eel Pie Publishing=2
+John Blake Publishing=1
+Newnes=1
+Tachyon Publications=2
+Leafwood Publishers=1
+

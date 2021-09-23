@@ -1,4 +1,4 @@
-package com.piedpiper.sec04;
+package com.piedpiper.sec04.operators;
 
 import java.util.function.Function;
 

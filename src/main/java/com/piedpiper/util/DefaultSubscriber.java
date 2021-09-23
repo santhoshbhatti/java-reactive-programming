@@ -34,7 +34,7 @@ public class DefaultSubscriber<T> implements Subscriber<T>{
 	@Override
 	public void onNext(T t) {
 		
-		System.out.println("got next Item : "+t.toString()+" >>>> current thread : "+Thread.currentThread().getName());
+		System.out.println("got next Item : "+name +"   "+t.toString()+" >>>> current thread : "+Thread.currentThread().getName());
 	}
 
 	@Override

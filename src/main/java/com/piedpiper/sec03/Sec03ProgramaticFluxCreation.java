@@ -1,5 +1,7 @@
 package com.piedpiper.sec03;
 
+import java.time.Duration;
+
 import com.piedpiper.util.Util;
 
 import reactor.core.publisher.Flux;
@@ -13,13 +15,14 @@ public class Sec03ProgramaticFluxCreation {
 			for(;;) {
 				String country = Util.faker().country().name();
 				fluxSink.next(country);
-				if (country.equalsIgnoreCase("canada")) {
+				
+				/*if (country.equalsIgnoreCase("canada")) {
 					break;
-				}
+				}*/
 			}
 			
-			fluxSink.complete();
-		}).subscribe(Util.getDefaultSubscriber());
+			//fluxSink.complete();
+		}).delayElements(Duration.ofSeconds(2)).subscribe(Util.getDefaultSubscriber());
 	}
 
 }

@@ -11,11 +11,11 @@ public class SynchronousSinkAssignment {
 			String country = Util.faker().country().name();
 			System.out.println("Emit : "+country);
 			syncSink.next(country);
-			if (country.equalsIgnoreCase("canada")) {
+			/*if (country.equalsIgnoreCase("canada")) {
 				syncSink.complete();
-			}
+			}*/
 		})
-		.take(10)
+		//.take(10)
 		.log()
 		.subscribe(Util.getDefaultSubscriber());
 	}

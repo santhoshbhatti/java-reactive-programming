@@ -14,7 +14,7 @@ public class Sec05Lec03HotPubRefCountDemo {
 		var flux = Flux.<String>fromStream(getMovieScenes())
 		.delayElements(Duration.ofSeconds(1))
 		//.share()
-		.publish()
+		.publish() //ConnectableFlux
 		.refCount(2);
 		
 		

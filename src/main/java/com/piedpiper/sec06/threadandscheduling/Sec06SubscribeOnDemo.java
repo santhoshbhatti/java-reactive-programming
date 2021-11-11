@@ -14,8 +14,16 @@ public class Sec06SubscribeOnDemo {
 		
 				printThreadName("main method");
 				
-				//this entire pipeline executes on the main thread
-				//that is the thread on which the pipeline is created and subscribed to
+				//Here we are subscribing on a different thread
+				//as has been declared in subscribeOn-----Schedulers.boundedElastic()
+				//Here we are subscribing on a different thread pool
+				//called boundedElastic
+				
+				//doFirst(() -> printThreadName("first1")) will run on main thread
+				//as do first nearest to subscriber executes first on main thread
+				//and then we use subscribeOn on a schedular whit its own thread pool
+				//then on wards another doFirst executes on a different thread 
+				//as well as the entire pipeline
 				Flux<Integer> flux = Flux.<Integer>create(fluxSync ->{
 					printThreadName("pipeline creation");
 					fluxSync.next(1);
@@ -28,9 +36,26 @@ public class Sec06SubscribeOnDemo {
 				.doFirst(() -> printThreadName("first1"))
 				.subscribe(i -> printThreadName("subscriber 1"));
 				
+				Util.sleepSeconds(3);
+				
+				//setting up one more experiment by running the pipeline on another thread
+				//Here we run the above flux on a user defined thread to see when the 
+				//subscribeOn is called the pipeline is exeucuted in the boundedElastic
+				//context and not the user defined pool
+				
+				System.out.println("---------------- running pipeline on another thread -----");
+				
+				Runnable runnable = () -> flux
+						.doFirst(() -> printThreadName("first2"))
+						.subscribeOn(Schedulers.boundedElastic())
+						.doFirst(() -> printThreadName("first1"))
+						.subscribe(i -> printThreadName("subscriber 1"));
+				
+				for(int k=0; k < 2; k++) {
+					new Thread(runnable).start();
+				}
+				
 				Util.sleepSeconds(10);
-				
-				
 				
 				
 			}
